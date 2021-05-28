@@ -1,0 +1,4 @@
+F:\BeAProblemSolver\C# Prac\alignment\obj\Debug\netcoreapp3.1\alignment.csprojAssemblyReference.cache
+F:\BeAProblemSolver\C# Prac\alignment\obj\Debug\netcoreapp3.1\alignment.AssemblyInfoInputs.cache
+F:\BeAProblemSolver\C# Prac\alignment\obj\Debug\netcoreapp3.1\alignment.AssemblyInfo.cs
+F:\BeAProblemSolver\C# Prac\alignment\obj\Debug\netcoreapp3.1\alignment.csproj.CoreCompileInputs.cache

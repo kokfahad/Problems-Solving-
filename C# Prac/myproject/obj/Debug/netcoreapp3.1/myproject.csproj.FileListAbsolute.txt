@@ -1,0 +1,13 @@
+F:\BeAProblemSolver\C# Prac\myproject\bin\Debug\netcoreapp3.1\myproject.exe
+F:\BeAProblemSolver\C# Prac\myproject\bin\Debug\netcoreapp3.1\myproject.deps.json
+F:\BeAProblemSolver\C# Prac\myproject\bin\Debug\netcoreapp3.1\myproject.runtimeconfig.json
+F:\BeAProblemSolver\C# Prac\myproject\bin\Debug\netcoreapp3.1\myproject.runtimeconfig.dev.json
+F:\BeAProblemSolver\C# Prac\myproject\bin\Debug\netcoreapp3.1\myproject.dll
+F:\BeAProblemSolver\C# Prac\myproject\bin\Debug\netcoreapp3.1\myproject.pdb
+F:\BeAProblemSolver\C# Prac\myproject\obj\Debug\netcoreapp3.1\myproject.csprojAssemblyReference.cache
+F:\BeAProblemSolver\C# Prac\myproject\obj\Debug\netcoreapp3.1\myproject.AssemblyInfoInputs.cache
+F:\BeAProblemSolver\C# Prac\myproject\obj\Debug\netcoreapp3.1\myproject.AssemblyInfo.cs
+F:\BeAProblemSolver\C# Prac\myproject\obj\Debug\netcoreapp3.1\myproject.csproj.CoreCompileInputs.cache
+F:\BeAProblemSolver\C# Prac\myproject\obj\Debug\netcoreapp3.1\myproject.dll
+F:\BeAProblemSolver\C# Prac\myproject\obj\Debug\netcoreapp3.1\myproject.pdb
+F:\BeAProblemSolver\C# Prac\myproject\obj\Debug\netcoreapp3.1\myproject.genruntimeconfig.cache
